@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newportfolio/static/css/main.ebfff438.css",
+    "main.js": "/newportfolio/static/js/main.01d79ef0.js",
+    "static/media/kiranbala.png": "/newportfolio/static/media/kiranbala.7c3f792d0a60bfbc6112.png",
+    "static/media/BalaCV.pdf": "/newportfolio/static/media/BalaCV.15cf4f16e42a1b20d3be.pdf",
+    "static/media/min2.png": "/newportfolio/static/media/min2.3e9101457a813611246b.png",
+    "index.html": "/newportfolio/index.html",
+    "main.ebfff438.css.map": "/newportfolio/static/css/main.ebfff438.css.map",
+    "main.01d79ef0.js.map": "/newportfolio/static/js/main.01d79ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebfff438.css",
+    "static/js/main.01d79ef0.js"
+  ]
+}
